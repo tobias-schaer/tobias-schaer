@@ -72,11 +72,6 @@ I build agentic workflows that teams depend on, and voice-first AI products peop
 
 A personal system that connects all my projects, with an ElevenLabs agent as its voice interface. I say "open my weekly planning", the agent queries the database, controls the app by command, shows me the view and tells me out loud what is going on. Private for now.
 
-## Also
-
-- **InnerJourneyMusic**: AI-assisted music and visuals, two albums released in 2026
-- **True North Collective**: a free meditation and personal growth community, 50+ members
-
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## Stack
