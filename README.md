@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="assets/trailer.mp4"><img src="assets/trailer_poster.jpg" alt="Play the 60 second intro video" width="100%"></a>
+<a href="https://youtu.be/RkBMGiRk6F8"><img src="assets/trailer_poster.jpg" alt="Watch the 60 second intro on YouTube" width="100%"></a>
 
 <sub>60-second intro. Click to play.</sub>
 
